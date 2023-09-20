@@ -1,0 +1,22 @@
+[
+  {
+    "matriculaPil": 123456,
+    "nome": "Manuel Garrido",
+    "habilitacao": 1
+  },
+  {
+    "matriculaPil": 223456,
+    "nome": "João da Silva",
+    "habilitacao": 1
+  },
+  {
+    "matriculaPil": 324567,
+    "nome": "Maria Lopes",
+    "habilitacao": 1
+  },
+  {
+    "matriculaPil": 456789,
+    "nome": "Pedro Silva",
+    "habilitacao": 2
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "codigoPlano": 0,
+    "matriculaAnvPlano": "PPABC",
+    "matriculaPilPlano": 123456,
+    "origemPlano": "POA",
+    "destinoPlano": "FLN",
+    "altitudePlano": 29000,
+    "identificadorAeroviaPlano": "A123",
+    "horarioPartidaPlano": 1900,
+    "horarioChegadaPlano": 2020,
+    "diaPlano": 10,
+    "mesPlano": 10,
+    "anoPlano": 2020
+  }
+]
